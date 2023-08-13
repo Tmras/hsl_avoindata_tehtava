@@ -1,0 +1,4 @@
+{
+  "polling_time_seconds": 600,
+  "facility_id_list": [1, 755]
+}
