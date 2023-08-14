@@ -4,7 +4,7 @@ Library   resources.py
 *** Test Cases ***
 Test Getting Realtime Data
     [Documentation]     Checks if realtime data is succesfully returned from the client
-    check realtime data received for id    1    200
+    check realtime data received for id    1
 
 Test Getting Realtime Data For Nonexisting Id
     [Documentation]     Checks that message is returned informnin that hte desired id does not exist the hsl api returns nothing at this point
